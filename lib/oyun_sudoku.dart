@@ -35,7 +35,7 @@ final sudokuConfig = GameConfig(
       'Sudoku',
       'Sudoku',
       'Sudoku',
-      '数独',
+      'ナンバープレース',
       '스도쿠',
       '数独',
       'सुडोकू',
